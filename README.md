@@ -1,3 +1,23 @@
+
+<p align="center">
+  <a href="https://www.jimmytruong.ca">
+    <img alt="Jimmy" src="https://cyberworld.cloud/images/gatsby-redux.png" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Jimmy Gatsby Starter Template
+</h1>
+
+
+Features:
+
+- **Gatsby**
+- **React Hooks, Redux** 
+- **Reactstrap**
+- **React Transition Group**
+- **SEO Opimization**
+
+
 ## 🚀 Quick start
 
 1.  **Start developing.**
