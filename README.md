@@ -24,7 +24,7 @@ Features:
 
     Navigate into your new site’s directory and start it up.
 
-    `cd bdwebapp`
+    `cd jimmy-ultimate-gatsby-with-redux`
     `npm run develop`
 
 2.  **Open the source code and start editing!**
@@ -33,7 +33,7 @@ Features:
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data._
 
-    Open the `bdwebapp` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the `jimmy-ultimate-gatsby-with-redux` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 🎓 What's inside?
 
@@ -93,6 +93,3 @@ Layout.defaultProps = {
 
 ## 💫 Deploy
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d1d22537-b529-474d-9d70-3c73c89fb7cd/deploy-status)](https://app.netlify.com/sites/bdwebapp/deploys)
-
-The staging site of BD APP: https://bdwebapp.netlify.com
