@@ -1,11 +1,11 @@
 
 <p align="center">
   <a href="https://www.jimmytruong.ca">
-    <img alt="Jimmy" src="https://cyberworld.cloud/images/gatsby-redux.png" width="500" />
+    <img alt="Jimmy" src="https://cyberworld.cloud/images/gatsby-redux.png" width="400" />
   </a>
 </p>
 <h1 align="center">
-  Jimmy Gatsby Starter Template
+  Jimmy Gatsby Starter Template with Redux Integration
 </h1>
 
 
