@@ -1,0 +1,59 @@
+/*--------------------------------------------------------------
+1.0 FONTS
+--------------------------------------------------------------*/
+$font__main: "FSAlbertProRegular", sans-serif;
+$font__heading: "FSAlbertProBold", sans-serif;
+
+@font-face {
+    font-family: FSAlbertProBold;
+    src: url(./fonts/FSAlbertPro-Bold.otf);
+  }
+@font-face {
+    font-family: FSAlbertProLight;
+    src: url(./fonts/FSAlbertPro-Light.otf);
+  }
+@font-face {
+    font-family: FSAlbertProRegular;
+    src: url(./fonts/FSAlbertPro-Regular.otf);
+  }
+
+/*--------------------------------------------------------------
+2.0 COLORS
+--------------------------------------------------------------*/
+$color__blue: #023970;
+$color__orange: #f27707;
+$color__dark-orange: #ce6503;
+$color__white: #ffffff;
+$color__light-grey: #dfe3e7;
+$color__black: #444444;
+$color__grey: #898989;
+$color__dark-grey: #616161;
+/*--------------------------------------------------------------
+3.0 HEADINGS
+--------------------------------------------------------------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font__heading;
+}
+h1 {
+  color: $color__white;
+}
+p {
+  color: $color__white;
+  font-family: $font__main;
+}
+a{
+  font-family: $font__main;
+}
+
+/*--------------------------------------------------------------
+4.0 MISC
+--------------------------------------------------------------*/
+// By default, Bootstrap 4 uses 1rem(16px) as font size as well as the line-height remains 1.5. It keeps its default font-family as "Helvetica Neue" where Helvetica, sans-serif, Arial are used. Furthermore, all <p> (paragraph) elements have margin-top set to 0 and margin-bottom set to 1rem(16px).
+// html {
+// font-size: 62.5%;/* 1rem = 10px */
+// }
