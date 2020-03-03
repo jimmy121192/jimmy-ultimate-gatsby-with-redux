@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.jimmytruong.ca">
-    <img alt="Jimmy" src="https://alonedreamer.com/jimmymedia/images/dark-logo.png" width="60" />
+    <img alt="Jimmy" src="https://alonedreamer.com/jimmymedia/images/gatsby-redux.png" width="60" />
   </a>
 </p>
 <h1 align="center">
