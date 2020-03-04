@@ -1,9 +1,9 @@
 {
-  "name": "bdwebapp",
+  "name": "gatsby-redux",
   "private": true,
-  "description": "A Web Application for BD, built with React",
+  "description": "My Gatsby Starter Template with Redux",
   "version": "0.1.0",
-  "author": "Pace Creative Group",
+  "author": "Jimmy Truong",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gatsby": "^2.15.35",
@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/pace-creative/bdwebapp"
+    "url": "https://github.com/jimmy121192/jimmy-ultimate-gatsby-with-redux/"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
